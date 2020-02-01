@@ -1,0 +1,6 @@
+playsound==1.2.2
+pylint==2.4.4
+PyQt5==5.14.1
+PyQt5-sip==12.7.1
+pytz==2019.3
+selenium==3.141.0
